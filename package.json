@@ -3,7 +3,8 @@
   "scripts": {
     "start": "env NODE_ENV=development webpack-dev-server --inline --hot",
     "build": "env NODE_ENV=production webpack",
-    "lint": "standard"
+    "lint": "standard",
+    "deploy": "gh-pages -d dist"
   },
   "engines": {
     "node": "5.7.0"
@@ -34,6 +35,7 @@
     "webpack": "^1.12.14"
   },
   "devDependencies": {
+    "gh-pages": "^0.10.0",
     "standard": "^6.0.7",
     "webpack-dev-server": "^1.14.1"
   }
