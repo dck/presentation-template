@@ -1,5 +1,5 @@
 const bespoke = require('bespoke')
-const theme = require('bespoke-theme-build-wars')
+const theme = require('bespoke-theme-cube')
 const keys = require('bespoke-keys')
 const touch = require('bespoke-touch')
 const bullets = require('bespoke-bullets')

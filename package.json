@@ -19,6 +19,7 @@
     "bespoke-progress": "^1.0.0",
     "bespoke-scale": "^1.0.1",
     "bespoke-theme-build-wars": "^1.0.1",
+    "bespoke-theme-cube": "^2.0.1",
     "bespoke-touch": "^1.0.0",
     "clean-webpack-plugin": "^0.1.8",
     "css-loader": "^0.23.1",
